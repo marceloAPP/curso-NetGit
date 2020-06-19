@@ -16,6 +16,8 @@ namespace projeto_teste
 
             Console.WriteLine("\nAlterado a mensagem.\n");
 
+            Console.WriteLine("\nSegundo Teste\n");
+
         }
     }
 }
