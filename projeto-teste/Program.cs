@@ -18,6 +18,13 @@ namespace projeto_teste
 
             Console.WriteLine("\nSegundo Teste\n");
 
+
+            int idade;
+
+            idade = int.Parse(Console.ReadLine());
+            Console.WriteLine("\nIdade: " + idade + "\n");
+
+
         }
     }
 }
