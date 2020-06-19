@@ -14,7 +14,7 @@ namespace projeto_teste
 
             Console.WriteLine("\nTestando as primeiras alterações no Git.\n");
 
-            Console.WriteLine("\nComo voce está.\n");
+            Console.WriteLine("\nAlterado a mensagem.\n");
 
         }
     }
